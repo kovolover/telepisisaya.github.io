@@ -1,22 +1,3 @@
-<html>
-<meta charset="UTF-8" content="text/html"/>
-<meta name="viewport" content="width = device-width, initial-scale = 1"/>
-<meta name="robots" content="noindex, nofollow"/>
-<meta http-equiv="refresh" content="0; url = https://google.com"/>
-
-
-    <head>
-        <title>iptv</title>
-    </head>
-    <body>
-    </body>
-    <div style="display:none;">
-</html>
-
-
-#EXTM3U
-
-============================== INDO EVENT===========
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="16.BASKET",VIDIO
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/2K5cXvyhDSjpAZodILQ504807dw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27017/persija-vs-persik-kediri-a100fe.jpg",  15:30 PERSIJA VS PERSIK
